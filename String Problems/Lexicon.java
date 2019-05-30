@@ -1,4 +1,4 @@
-/*Checking whether first String is lexicographically greater than String B*/
+/*Checking whether the first String A is lexicographically greater than String B*/
 /*Input: Hello World*/
 
 import java.io.*;
