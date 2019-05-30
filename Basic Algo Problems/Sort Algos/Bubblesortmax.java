@@ -1,6 +1,6 @@
 /*Counting the maximum occurance of the largest number in an array*/
 
-static int birthdayCakeCandles(int[] ar) {
+static int bubbleSort(int[] ar) {
 
         int[] arr = ar; 
         int buk = 0;

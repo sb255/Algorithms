@@ -1,8 +1,8 @@
 
 /*
 sample input: 
-5 1
-1 2 3 4 1
+6 1
+1 2 3 4 1 2
 
 first line has the size and search element
 second line is the array

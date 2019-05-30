@@ -1,6 +1,6 @@
 /*When we want to compare two list' objects, we use the following method: */
 
-static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
+static List<Integer> compareLists(List<Integer> a, List<Integer> b) {
 
         List<Integer> list1 = new ArrayList<Integer>();
         list1 = a;  

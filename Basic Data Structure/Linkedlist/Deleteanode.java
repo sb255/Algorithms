@@ -1,7 +1,7 @@
 /*Deleting a node from a particular position from a linked list*/
 /*Remember the head is at 0th position while counting*/
 
-static SinglyLinkedListNode deleteNode(SinglyLinkedListNode head, int position) {
+static SinglyLinkedListNode deleteTheNode(SinglyLinkedListNode head, int position) {
 
      SinglyLinkedListNode n = head; 
      int position_ = position; 
