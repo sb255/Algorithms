@@ -8,7 +8,7 @@ static List<Integer> compareLists(List<Integer> a, List<Integer> b) {
         List<Integer> list2 = new ArrayList<Integer>();
         list2 = b; 
 
-        /* This line is tricky*/ 
+        /* This line is tricky, see how one line is used in place of two lines*/ 
         /*
         Integer[] arr1 = new Integer[list1.size];
         arr1 = list1.toArray(); 
