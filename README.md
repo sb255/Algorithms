@@ -42,11 +42,11 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 # Searching Algorithms
 
-## Linear search algorithm
+## Linear Search Algorithm
 
 ```
     
-    public static int  linearSearch(int[] arr, int searchElement){
+    int linearSearch(int[] arr, int searchElement){
     
         int array[] = arr;
         int sElement = searchElement; 
@@ -62,4 +62,35 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
     
 ```
 
+</br></br>
+
+## Binary Search Algorithm
+
+```
+    
+/*-- We are assuming that the array is sorted and the array has more than one element --*/    
+    
+    int binarySearch(int[] array, int searchElement, int startingIndex, int endingIndex){
+    
+        int middleIndex = (startingIndex + endingIndex)/2;
+            
+        if(searchElement==array[middleIndex]){
+            return middleIndex;
+        }
+            
+        else if(searchElement<array[middleIndex]){
+            return binarySearch(array, searchElement, startingIndex, middleIndex-1);
+        }
+            
+        else if(searchElement>array[middleIndex])
+            return binarySearch(array, searchElement, middleIndex+1, endingIndex);
+            
+        else
+            return -1; 
+        
+    }
+
+```
+
 ---------------------------------------------------------------------------------------------
+
