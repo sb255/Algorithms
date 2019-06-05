@@ -40,9 +40,9 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Searching Algorithms
+# Searching Algorithms:
 
-## Linear Search Algorithm
+## Linear Search Algorithm:
 
 ```
     
@@ -56,7 +56,6 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
                 return i; 
         }
         
-        
         return -1;
     }
     
@@ -64,7 +63,7 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 </br></br>
 
-## Binary Search Algorithm
+## Binary Search Algorithm:
 
 ```
     
@@ -73,18 +72,22 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
     int binarySearch(int[] array, int searchElement, int startingIndex, int endingIndex){
     
         int middleIndex = (startingIndex + endingIndex)/2;
-            
+        
+       
         if(searchElement==array[middleIndex]){
             return middleIndex;
         }
+
             
         else if(searchElement<array[middleIndex]){
             return binarySearch(array, searchElement, startingIndex, middleIndex-1);
         }
+
             
         else if(searchElement>array[middleIndex])
             return binarySearch(array, searchElement, middleIndex+1, endingIndex);
-            
+           
+ 
         else
             return -1; 
         
