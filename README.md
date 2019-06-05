@@ -102,7 +102,6 @@ Search Algorithm | Best Case | Average Case | Worst Case
 Linear Search | O(1) | O(n) | O(n) 
 Binary Search | O(1) | O(logn) | O(logn) 
 
-<br>
 
 ## Space Complexity: </br>
 
@@ -110,8 +109,6 @@ Search Algorithm | Space Complexity
 --- | ---
 Linear Search | O(1)
 Binary Search | O(1)
-
-</br>
 
 
 ---------------------------------------------------------------------------------------------
@@ -149,7 +146,6 @@ Sorting Algorithm | Best Case | Average Case | Worst Case
 --- | --- | --- | ---
 Bubble Sort | O(n) | O(n^2) | O(n^2) 
 
-</br>
 
 ## Space Complexity:</br>
 
@@ -157,5 +153,4 @@ Sorting Algorithm | Space Complexity
 --- | ---
 Bubble Sort | 
 
-</br>
----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
