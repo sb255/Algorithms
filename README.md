@@ -119,3 +119,40 @@ Binary Search | O(1)
 
 ---------------------------------------------------------------------------------------------
 
+## Sorting Algorithms:
+</br>
+## Bubble Sort Algorithm:
+```
+
+    int[] bubbleSort(int[] arr){
+                        
+        int[] ar = {2,3,4,1,8,9,5,6,7}; 
+        int buk = 0; 
+
+            for(int i=0; i<ar.length; i++){
+                for(int j=i+1; j<ar.length; j++){
+                    if(ar[i]>ar[j]) {
+                        buk = ar[i];
+                        ar[i] = ar[j]; 
+                        ar[j] = buk; 
+                    }
+                }
+            }
+    
+        return ar;
+    
+    }
+    
+```
+
+## Time and Space complexities of sorting algorithms:
+
+## Time Complexity:</br>
+
+Sorting Algorithm | Best Case | Average Case | Worst Case
+--- | --- | --- | ---
+Bubble Sort | O(n) | O(n^2) | O(n^2) 
+
+</br>
+
+---------------------------------------------------------------------------------------------
