@@ -61,8 +61,6 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
     
 ```
 
-</br>
-
 ## Binary Search Algorithm:
 
 ```
@@ -96,9 +94,8 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 ```
 
 ## Time and Space complexities of search algorithms:
-</br>
 
-## Time Complexity: </br>
+## Time Complexity: 
 
 Search Algorithm | Best Case | Average Case | Worst Case
 --- | --- | --- | ---
@@ -120,7 +117,7 @@ Binary Search | O(1)
 ---------------------------------------------------------------------------------------------
 
 # Sorting Algorithms:
-</br>
+
 ## Bubble Sort Algorithm:
 
 ```
