@@ -119,11 +119,11 @@ Binary Search | O(1)
 
 ---------------------------------------------------------------------------------------------
 
-## Sorting Algorithms:
+# Sorting Algorithms:
 </br>
 ## Bubble Sort Algorithm:
-```
 
+```
     int[] bubbleSort(int[] arr){
                         
         int[] ar = {2,3,4,1,8,9,5,6,7}; 
@@ -142,7 +142,6 @@ Binary Search | O(1)
         return ar;
     
     }
-    
 ```
 
 ## Time and Space complexities of sorting algorithms:
