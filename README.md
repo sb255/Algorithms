@@ -40,8 +40,6 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-</br>
-
 # Searching Algorithms:
 
 ## Linear Search Algorithm:
