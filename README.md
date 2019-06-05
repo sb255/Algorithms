@@ -61,7 +61,7 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
     
 ```
 
-</br></br>
+</br>
 
 ## Binary Search Algorithm:
 
