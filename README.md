@@ -40,3 +40,26 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# Searching Algorithms
+
+## Linear search algorithm
+
+```
+    
+    public static int  linearSearch(int[] arr, int searchElement){
+    
+        int array[] = arr;
+        int sElement = searchElement; 
+        
+        for(int i=0; i<array.length; i++){
+            if(array[i]==sElement)
+                return i; 
+        }
+        
+        
+        return -1;
+    }
+    
+```
+
+---------------------------------------------------------------------------------------------
