@@ -95,5 +95,27 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ```
 
+## Time and Space complexities of search algorithms:
+</br>
+
+## Time Complexity: </br>
+
+Search Algorithm | Best Case | Average Case | Worst Case
+--- | --- | --- | ---
+Linear Search | O(1) | O(n) | O(n) 
+Binary Search | O(1) | O(logn) | O(logn) 
+
+<br>
+
+## Space Complexity: </br>
+
+Search Algorithm | Space Complexity
+--- | ---
+Linear Search | O(1)
+Binary Search | O(1)
+
+</br>
+
+
 ---------------------------------------------------------------------------------------------
 
