@@ -140,14 +140,14 @@ Binary Search | O(1)
 
 ## Time and Space complexities of sorting algorithms:
 
-## Time Complexity:</br>
+## Time Complexity:
 
 Sorting Algorithm | Best Case | Average Case | Worst Case
 --- | --- | --- | ---
 Bubble Sort | O(n) | O(n^2) | O(n^2) 
 
 
-## Space Complexity:</br>
+## Space Complexity:
 
 Sorting Algorithm | Space Complexity
 --- | ---
