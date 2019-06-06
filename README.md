@@ -120,6 +120,11 @@ Bubble Sort:
 ```
 Swaps the first two elements of the array and then swaps the adjacent numbers, and keeps on swapping until the array is sorted
 
+```
+Merge Sort: 
+```
+First divides the array into two halves, sort each of them and then merge them together
+
 ## General Sorting Algorithm:
 
 ```
