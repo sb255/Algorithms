@@ -135,6 +135,11 @@ Selection Sort:
 ```
 Performs a LINEAR SCAN, find the smallest element and place it to 0th Index, and then keeps on doing the process until the array is sorted!
 
+```
+Insertion Sort: 
+```
+In Insertion sort, we COMPARE a element with the elements COMING BEFORE IT in the array, Ex: Element at INDEX=3, will be compared with the elements positioned at INDEX=0,1,2 respectively and then the element is placed at the correct position.
+
 
 ## General Sorting Algorithm:
 
