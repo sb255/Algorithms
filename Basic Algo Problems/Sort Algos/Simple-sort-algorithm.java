@@ -1,7 +1,6 @@
+/*Simple algorithm for sorting an array*/
 
-/*Bubble sort mainly works on the concept of Swapping the smaller and larger values*/
-
-public class Bubblesort{
+public class SimpleSort{
 
         public static void main(String[] args) {
 		
@@ -25,5 +24,6 @@ public class Bubblesort{
                   }
 		
           }
+
 }
 
