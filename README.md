@@ -118,12 +118,12 @@ Binary Search | O(1)
 ```
 Bubble Sort: 
 ```
-Swaps the first two elements of the array and then swaps the adjacent elements, and keeps on swapping until the array is sorted!
+SWAPS the first two elements of the array and then swaps the adjacent elements, and keeps on SWAPPING until the array is sorted!
 
 ```
 Merge Sort: 
 ```
-First divides the array into two halves, sort each of them and then merge them together!
+First DIVIDES the array into two halves, SORT each of them and then MERGE them together!
 
 ```
 Quick Sort: 
