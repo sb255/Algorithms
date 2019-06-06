@@ -130,6 +130,12 @@ Quick Sort:
 ```
 In quick sort, we create a partition known as PIVOT, and then divide the array on the basis of elements less than the PIVOT and the elements larger than the PIVOT element!
 
+```
+Selection Sort: 
+```
+Performs a LINEAR SCAN, find the smallest element and place it to 0th Index, and then keeps on doing the process until the array is sorted!
+
+
 ## General Sorting Algorithm:
 
 ```
