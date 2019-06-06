@@ -115,6 +115,9 @@ Binary Search | O(1)
 
 # Sorting Algorithms:
 
+Bubble Sort: Swaps first two elements->smaller one is swapped to lower index->continue swapping until the array is sorted
+
+
 ## General Sorting Algorithm:
 
 ```
