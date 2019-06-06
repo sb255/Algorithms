@@ -116,8 +116,9 @@ Binary Search | O(1)
 # Sorting Algorithms:
 
 ```
-Bubble Sort: Swaps the first two elements of the array and then swaps the adjacent numbers, and keeps on swapping until the array is sorted
+Bubble Sort: 
 ```
+Swaps the first two elements of the array and then swaps the adjacent numbers, and keeps on swapping until the array is sorted
 
 ## General Sorting Algorithm:
 
