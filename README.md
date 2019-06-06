@@ -118,12 +118,17 @@ Binary Search | O(1)
 ```
 Bubble Sort: 
 ```
-Swaps the first two elements of the array and then swaps the adjacent numbers, and keeps on swapping until the array is sorted
+Swaps the first two elements of the array and then swaps the adjacent elements, and keeps on swapping until the array is sorted!
 
 ```
 Merge Sort: 
 ```
-First divides the array into two halves, sort each of them and then merge them together
+First divides the array into two halves, sort each of them and then merge them together!
+
+```
+Quick Sort: 
+```
+In quick sort, we create a partition known as PIVOT, and then divide the array on the basis of elements less than the PIVOT and the elements larger than the PIVOT element!
 
 ## General Sorting Algorithm:
 
