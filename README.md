@@ -115,10 +115,10 @@ Binary Search | O(1)
 
 # Sorting Algorithms:
 
-## Bubble Sort Algorithm:
+## General Sorting Algorithm:
 
 ```
-    int[] bubbleSort(int[] arr){
+    int[] generalSort(int[] arr){
                         
         int[] ar = {2,3,4,1,8,9,5,6,7}; 
         int buk = 0; 
@@ -140,17 +140,25 @@ Binary Search | O(1)
 
 ## Time and Space complexities of sorting algorithms:
 
-## Time Complexity:
+## Time Complexities:
 
 Sorting Algorithm | Best Case | Average Case | Worst Case
 --- | --- | --- | ---
 Bubble Sort | O(n) | O(n^2) | O(n^2) 
+Merge Sort | O(nlog(n)) | O(nlog(n)) | O(nlog(n))
+Quick Sort | O(nlog(n)) | O(nlog(n)) | O(n^2)
+Selection Sort | O(n^2) | O(n^2) | O(n^2)
+Insertion Sort | O(n) | O(n^2) | O(n^2)
 
 
-## Space Complexity:
+## Space Complexities:
 
-Sorting Algorithm | Space Complexity
+Sorting Algorithm | Space Complexity(Worst)
 --- | ---
-Bubble Sort | 
+Bubble Sort | O(1)
+Merge Sort | O(n)
+Quick Sort | O(1)
+Selection Sort | O(1)
+Insertion Sort | O(1)
 
 -----------------------------------------------------------------------------------------------
