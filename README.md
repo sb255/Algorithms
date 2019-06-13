@@ -38,6 +38,14 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# Point to remember
+
+.length -> It is used for calculating the length of all types of array (int[], String[], char[])
+
+.length() -> It is used for calculating the length of a String
+
+---------------------------------------------------------------------------------------------
+
 # Searching Algorithms:
 
 ## Linear Search Algorithm:
