@@ -31,7 +31,7 @@ int[] intArray = {0,1,2,3,4,5,6,7,8,9}
 
 # Most common methods to find the size or length of an array
 
-arr.length -> for calculating the length of all types of arrays (int[], String[], char[])
+arr.length -> for calculating the length of all types of array (int[], String[], char[])
 
 arr.size() -> for calculating the size of an object array(Ex. List array as it stores only objects)
 
