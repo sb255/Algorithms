@@ -1,4 +1,4 @@
-# Basics about Arrays
+# Array Basics:
 Array declaration for all data types and list(list objects)
 
 
