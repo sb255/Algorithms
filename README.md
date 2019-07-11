@@ -170,6 +170,15 @@ In Insertion sort, we COMPARE a element with the elements COMING BEFORE IT in th
     }
 ```
 
+```java
+
+/* In built methods for sorting Arrays and Lists */
+
+Arrays.sort(stringArray); 
+
+Collections.sort(list);
+
+```
 ## Time and Space complexities of sorting algorithms:
 
 ## Time Complexities:
@@ -194,3 +203,4 @@ Selection Sort | O(1)
 Insertion Sort | O(1)
 
 -----------------------------------------------------------------------------------------------
+
