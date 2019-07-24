@@ -1,6 +1,4 @@
-/*
- * Finding the nth term in a fibonaci series using Recursion
- */
+/*Finding the nth term in a fibonaci series using Recursion!*/
 
 public class FibonacciRecursion{
     

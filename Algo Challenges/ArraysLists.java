@@ -1,4 +1,4 @@
-/*-- Comparing two lists' objects --*/
+/*--Comparing two lists' objects--*/
 
 import java.util.*;
 
