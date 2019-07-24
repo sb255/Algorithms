@@ -1,8 +1,3 @@
-# Array Basics:
-Array declaration for all data types and list(list objects)
-
-
-------------------------------------------------------------------------------------------------------------------------------
 
 # Most Basic types of array declaration:
 

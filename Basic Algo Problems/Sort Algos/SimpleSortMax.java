@@ -1,6 +1,6 @@
 /*Counting the maximum occurance of the largest number in an array*/
 
-static int simpleSort(int[] ar) {
+static int SimpleSortMax(int[] ar) {
 
         int[] arr = ar; 
         int buk = 0;

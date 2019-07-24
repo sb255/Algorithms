@@ -1,6 +1,6 @@
 /*Simple algorithm for sorting an array*/
 
-public class SimpleSort{
+public class SimpleSortAlgorithm{
 
         public static void main(String[] args) {
 		
