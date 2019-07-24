@@ -41,7 +41,7 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ---------------------------------------------------------------------------------------------
 
-## Big O:
+# Big O:
 
 #### *Run-time: Time taken or the Iteration made by function/algorithm to process the input. If the number of Iteration are equal to the given input x, then the run time will be O(x).*  
 
