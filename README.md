@@ -222,7 +222,7 @@ Insertion Sort | O(1)
 
 -----------------------------------------------------------------------------------------------
 
-## Recursion:
+# Recursion:
 
 ```java
 
@@ -241,16 +241,16 @@ Insertion Sort | O(1)
 
     }
 
-    Recursion Stack: [printInReverse1(printInReverse2(printInReverse3(...)))]
+ //   Recursion Stack: [printInReverse1(printInReverse2(printInReverse3(...)))]
 
-    Calling Order(LIFO): ..., printInReverse3, printInReverse2, printInReverse1
+ //   Calling Order(LIFO): ..., printInReverse3, printInReverse2, printInReverse1
  
 
 ```
 
 ---------------------------------------------------------------------------------------------
 
-## BitWise Operations: 
+# BitWise Operations: 
 
 *  AND | &  : Returns 1(True) if both the operands are 1(True).
 *  OR  | |  : Returns 1(True) if atleast one of the operands is 1(True).
