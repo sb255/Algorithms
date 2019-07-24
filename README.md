@@ -1,3 +1,15 @@
+# Algorithms using Java!
+
+## *Algorithms Topics:*
+
+   * Big O Concept
+   * Searching Algorithms
+   * Sorting Algorithms
+   * Recursion
+   * BitWise Operation
+   * Dynamic Programming
+ 
+---------------------------------------------------------------------------------------------
 
 # Most Basic types of array declaration:
 

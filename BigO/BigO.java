@@ -1,7 +1,7 @@
 /* 
- *  Find whether the Number is Prime or Not
- *  Time complexity!!
- */
+  Find whether the Number is Prime or Not
+  Time complexity!!
+*/
 
 import java.util.*;
 
