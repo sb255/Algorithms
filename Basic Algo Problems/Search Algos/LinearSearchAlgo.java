@@ -17,7 +17,7 @@ import java.util.*;
 import java.lang.*;
 
 
-class LinearSearch {
+class LinearSearchAlgo {
     public static void main(String args[] ) throws Exception {
         
         
