@@ -58,9 +58,13 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 #### *Run-time: Time taken or the Iteration made by function/algorithm to process the input. If the number of Iteration are equal to the given input x, then the run time will be O(x).*  
 
 *  O(n): When run-time is proportional to the input size n. In an average case of a linear search algorithm, we have to check each value in an array, the run time in that case is proportional to the size of the array. </br> 
+
 </br>
+
 *  O(1): When run-time is constant and independent of the input size. </br>
+
 </br>
+
 *  O(log(n)): When run-time increases exponentially with the size of input. In case of binary search, the worst case is O(log(n)). 
 
 ---------------------------------------------------------------------------------------------
