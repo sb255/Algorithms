@@ -45,7 +45,7 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ## Linear Search Algorithm:
 
-```
+```java
     
     int linearSearch(int[] arr, int searchElement){
     
@@ -64,7 +64,7 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ## Binary Search Algorithm:
 
-```
+```java
     
 /*-- We are assuming that the array is sorted and the array has more than one element --*/    
     
@@ -144,7 +144,8 @@ In Insertion sort, we COMPARE a element with the elements COMING BEFORE IT in th
 
 ## General Sorting Algorithm:
 
-```
+```java
+
     int[] generalSort(int[] arr){
                         
         int[] ar = {2,3,4,1,8,9,5,6,7}; 
@@ -163,6 +164,7 @@ In Insertion sort, we COMPARE a element with the elements COMING BEFORE IT in th
         return ar;
     
     }
+
 ```
 
 ```java
