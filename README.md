@@ -75,7 +75,7 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ```java
     
-/*-- We are assuming that the array is sorted and the array has more than one element --*/    
+/*--We are assuming that the array is sorted and the array has more than one element--*/    
     
     int binarySearch(int[] array, int searchElement, int startingIndex, int endingIndex){
     
@@ -178,7 +178,7 @@ In Insertion sort, we COMPARE a element with the elements COMING BEFORE IT in th
 
 ```java
 
-/* In built methods for sorting Arrays and Lists */
+/*--In built methods for sorting Arrays and Lists--*/
 
 Arrays.sort(stringArray); 
 
@@ -214,9 +214,7 @@ Insertion Sort | O(1)
 
 ```java
 
-/* 
- * Printing the elements of a SinglyLinkedList in reverse order using recursion
- */ 
+/*--Printing the elements of a SinglyLinkedList in reverse order using recursion--*/ 
 
    
     static void printInReverse(Node head) {
