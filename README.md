@@ -94,6 +94,17 @@ arr.size() -> for calculating the size of an object array(Ex. List array as it s
 
 ```
 
+---------------------------------------------------------------------------------------------
+
+# Big O:
+
+#### *Run-time: Time taken or the Iteration made by function/algorithm to proce$
+
+*  *O(n): When run-time is proportional to the input size n. In an average case$
+*  *O(1): When run-time is constant and independent of the input size.*
+*  *O(log(n)): When run-time increases exponentially with the size of input. In$
+
+
 ## Time and Space complexities of search algorithms:
 
 ## Time Complexity: 
