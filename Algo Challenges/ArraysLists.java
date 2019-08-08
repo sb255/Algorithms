@@ -12,16 +12,6 @@ public class ArraysLists {
         List<Integer> list2 = new ArrayList<Integer>();
         list2 = b;
 
-        /* This line is tricky */
-
-        /*
-        
-        Integer[] arr1 = new Integer[list1.size];
-        arr1 = list1.toArray();
-        The above two lines can be merged and can be written as:
-        Integer[] arr1 = list1.toArray(new Integer[list1.size()]);
-        */
-
         Integer[] arr1 = list1.toArray(new Integer[list1.size()]);
 
         Integer[] arr2 = list2.toArray(new Integer[list2.size()]);
