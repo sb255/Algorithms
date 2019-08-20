@@ -13,14 +13,11 @@
 
 # Most Basic types of array declaration:
 
-data-type varName [size];
+data-type varName[size];
 
 OR
 
 data-type[size] varName;
-
-
-(Generally second type of declaration is preffered)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
